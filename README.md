@@ -1,11 +1,11 @@
-<a href="https://vipu-patil.github.io/Vipul-Patil-Portfolio/"><img src="assets/banner.png" alt="Vipul Patil · Applied AI/ML Engineer" width="100%" /></a>
+<a href="https://vipu-patil.github.io/Vipul-Patil-Portfolio/"><img src="assets/banner.png" alt="Vipul Patil · Software · Automation · AI Engineer" width="100%" /></a>
 
 <h1 align="center">Hi 👋, I'm Vipul Patil.</h1>
 
-<h3 align="center">An Applied AI/ML Engineer who ships ML systems that hold up on messy, real-world data</h3>
+<h3 align="center">A Software, Automation & AI Engineer who builds reliable backend systems, automates manual work, and ships AI into production</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+Centene;LLM+agents+%C2%B7+RAG+%C2%B7+Evaluation+%C2%B7+MLOps;M.S.+Computer+Science+%40+Northeastern" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Software+Engineer+%C2%B7+Python%2C+C%2B%2B%2C+FastAPI;Automation+Engineer+%C2%B7+CI%2FCD%2C+pipelines%2C+browser+agents;AI+Engineer+%C2%B7+LLM+agents%2C+RAG%2C+ML+in+production" alt="Software · Automation · AI Engineer" />
 </p>
 
 <p align="left">
@@ -17,38 +17,78 @@
 
 <img align="right" src="assets/card.png" alt="Vipul Patil model card" width="340" />
 
-- 🏥 I'm currently an **AI Engineer at [Centene](https://www.centene.com/)**, working on fraud detection and retrieval for healthcare claims
+- 💻 I build **production software for healthcare and financial services**, from real-time backend services to the pipelines that ship them
 
-- 🔭 I'm currently building **[AI Banking Computer-Use Agent](https://github.com/Vipu-Patil/AI-Banking-Computer-Use-Agent)** and **[IncidentIQ](https://github.com/Vipu-Patil/IncidentIQ)**
+- ⚙️ I **automate manual work**: CI/CD pipelines, data pipelines, and AI agents that operate legacy web apps with no APIs
 
-- 🌱 I'm currently going deeper on **LLM agents, RAG and ML evaluation**
+- 🤖 I take **AI from prototype to production**, including ML models, RAG search tools and LLM agents with human-in-the-loop safety
 
-- 👯 I'm looking to collaborate on **AI agents that are safe enough to use in finance and healthcare**
+- 🔭 Currently building **[AI Banking Computer-Use Agent](https://github.com/Vipu-Patil/AI-Banking-Computer-Use-Agent)** and **[IncidentIQ](https://github.com/Vipu-Patil/IncidentIQ)**
 
-- 🎓 **M.S. in Computer Science**, Northeastern University (2025)
+- 🏢 Experience at **Centene** (healthcare) and **Capgemini** (financial services)
 
-- 🌐 Everything I've built is on **[my portfolio website](https://vipu-patil.github.io/Vipul-Patil-Portfolio/)**
+- 🎓 **M.S., Northeastern University** (Boston, 2025)
 
-- 💬 Ask me about **RAG, fraud detection, evals, FastAPI and MLOps**
+- 🌐 More about me on **[my portfolio website](https://vipu-patil.github.io/Vipul-Patil-Portfolio/)**
 
 - 📫 Reach me at **[patil.vipu.2001@gmail.com](mailto:patil.vipu.2001@gmail.com)**
 
-- ⚡ Fun fact: **I will build an eval suite for anything**
+- ⚡ Fun fact: **if I do something twice, I automate it**
 
 <br clear="right" />
 
 ---
 
+### 🧭 What I do
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 💻 Software Engineering
+- Backend services in **Python, C++ & FastAPI**
+- **REST APIs** and microservices
+- Real-time systems: **10K+ tx/min at < 200 ms**
+- **PostgreSQL, SQL**, Spark data pipelines
+- Testing, code review, observability
+
+</td>
+<td width="33%" valign="top">
+
+#### ⚙️ Automation
+- **CI/CD** with GitHub Actions & Docker
+- Release cycles **2 weeks → 3 days**
+- **ETL pipelines**: 2 hrs → under 10 min
+- **Browser automation** with Playwright
+- Automated health checks & rollback
+
+</td>
+<td width="33%" valign="top">
+
+#### 🤖 AI Engineering
+- **LLM agents** with tool calling
+- **RAG** & vector search (FAISS, Pinecone, pgvector)
+- **ML models** in production (XGBoost)
+- Evals, guardrails, human-in-the-loop
+- MLflow, model serving on AWS
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 📈 Impact
 
-| | Result | Where |
+| | Result | Area |
 |:-:|---|---|
-| 🎯 | **+28% PR-AUC** over baseline on healthcare claims fraud detection | Centene |
-| ⏱️ | **40% smaller review queue** for a team of 12 claims adjudicators | Centene |
-| 🟢 | **99.7% uptime** on real-time ML scoring endpoints (AWS) | Centene |
-| ⚡ | **< 200 ms** risk scoring at **10K+ transactions/min** | Capgemini |
-| 🚀 | Release cycle cut from **2 weeks → 3 days** with MLOps pipelines | Capgemini |
-| 📝 | **~50% less** analyst documentation time with a LLaMA-based compliance assistant | Capgemini |
+| ⏱️ | **40% smaller manual review queue** for 12 claims adjudicators with a real-time FastAPI scoring service | Software · AI |
+| 🟢 | **99.7% uptime** on production endpoints on AWS with automated health checks and rollback | Software · Automation |
+| ⚡ | **10K+ transactions/min at < 200 ms** in Python and C++ backend services | Software |
+| 🚀 | Release cycles cut from **2 weeks → 3 days** with CI/CD pipelines | Automation |
+| 🧹 | Data processing cut from **2 hours → under 10 minutes** with Python ETL pipelines | Automation |
+| 🎯 | **+28% PR-AUC** over baseline on a production fraud-detection model | AI |
+| 🔎 | Claim history surfaced **in seconds** with a RAG research tool, instead of manual database searches | AI |
 
 ---
 
@@ -59,7 +99,7 @@
 <td width="50%" valign="top">
 
 #### 🏦 [AI Banking Computer-Use Agent](https://github.com/Vipu-Patil/AI-Banking-Computer-Use-Agent)
-An LLM agent that learns to operate a **legacy banking back-office app** like a human would, then saves the workflow as a **replayable, auditable artifact**.
+**Automates banking workflows in legacy web apps that have no APIs**, using an LLM agent that drives a real browser and saves each workflow as a **replayable, auditable artifact**.
 
 - Picks only real, verified page elements, so it can't hallucinate clicks
 - **Human approval** for risky actions, plus mid-task human handoff
@@ -87,7 +127,7 @@ An AI **incident-investigation agent** that reads logs, metrics and deployments 
 <td colspan="2" valign="top">
 
 #### 💼 [Portfolio site](https://vipu-patil.github.io/Vipul-Patil-Portfolio/) · [source](https://github.com/Vipu-Patil/Vipul-Patil-Portfolio)
-A playful React + Vite portfolio with **"Ask my resume"**, an in-browser TF-IDF retriever that answers visitors' questions from my resume, and an ML-style **model card** about me. `React` `Vite` `JavaScript`
+A React + Vite portfolio with **"Ask my resume"**, an in-browser TF-IDF retriever that answers visitors' questions from my resume. It's deployed automatically to **GitHub Pages** with GitHub Actions. `React` `Vite` `GitHub Actions`
 
 </td>
 </tr>
@@ -98,29 +138,29 @@ A playful React + Vite portfolio with **"Ask my resume"**, an in-browser TF-IDF 
 ### 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,cpp,react,fastapi,postgres,mongodb,aws,docker,kubernetes,git,githubactions,prometheus&perline=13" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,java,fastapi,react,postgres,mongodb,redis,linux,docker,kubernetes,aws,githubactions,git,prometheus&perline=8" alt="Tech stack icons" />
 </p>
 
 | Area | Tools |
 |---|---|
-| **Machine learning** | XGBoost · feature engineering · PR-AUC evaluation · error analysis · Hugging Face |
-| **Retrieval & LLMs** | Embeddings · RAG · FAISS · Pinecone · pgvector · LangGraph · tool calling · prompt engineering |
-| **Evaluation & controls** | Offline evals · adversarial testing · LangSmith · human-in-the-loop · auditability |
-| **Software** | Python · TypeScript · SQL · C++ · FastAPI · React · REST APIs · PostgreSQL · MongoDB · Apache Spark |
-| **Production & MLOps** | AWS · Docker · Kubernetes · GitHub Actions · MLflow · Prometheus |
+| **Languages** | Python · C++ · TypeScript · SQL · Java |
+| **Backend & APIs** | FastAPI · REST API design · microservices · PostgreSQL · MongoDB · Redis · pytest |
+| **Automation & DevOps** | GitHub Actions CI/CD · Docker · Kubernetes · Linux · AWS (EC2, Lambda, S3) · Playwright · Prometheus |
+| **Data** | Apache Spark · Kafka · ETL pipelines · Pandas · NumPy |
+| **AI & ML** | LLMs (OpenAI, Anthropic, Gemini) · LangChain · LangGraph · RAG · FAISS · Pinecone · pgvector · XGBoost · Scikit-learn · PyTorch · MLflow |
 
 ---
 
 ### 💼 Experience
 
-**AI Engineer · Centene Corporation** · *Jun 2025 – Present* · Boston, MA
-<br/>Fraud detection and retrieval for healthcare claims: ML models in production with FastAPI on AWS, plus embedding search (FAISS, Pinecone) that gives adjusters historical context in seconds.
+**Centene Corporation** · Boston, MA · *Healthcare*
+<br/>Built and deployed a real-time claim-scoring service (Python, FastAPI) on AWS at 99.7% uptime, a RAG claim-research tool (LangChain, FAISS, Pinecone), and an XGBoost fraud model with +28% PR-AUC.
 
-**AI Software Engineer · Capgemini** · *Jan 2023 – Aug 2023* · Pune, India
-<br/>LLM apps, RAG and real-time risk scoring for financial services: LLaMA-based compliance drafting, RAG over case data (40% faster research), and Python/C++ scoring backends.
+**Capgemini** · Pune, India · *Financial services*
+<br/>Built Python and C++ backend services for real-time transaction risk scoring (10K+ tx/min, < 200 ms) and GitHub Actions CI/CD pipelines that cut release cycles from 2 weeks to 3 days.
 
-**Data Science Intern · PharmaPro** · *Feb 2022 – May 2022* · Mumbai, India
-<br/>Python ETL pipelines that turned unstructured PDFs and web data into clean datasets, cutting processing from 2 hours to under 10 minutes.
+**PharmaPro** · Mumbai, India · *Data*
+<br/>Automated Python ETL pipelines that turned unstructured PDFs and web data into clean datasets, cutting processing from 2 hours to under 10 minutes.
 
 ---
 
@@ -128,9 +168,8 @@ A playful React + Vite portfolio with **"Ask my resume"**, an in-browser TF-IDF 
 
 ### 🤝 Let's connect
 
-I'm always happy to talk about **LLM agents, RAG, ML evaluation** or **putting AI into production in finance and healthcare**.
+Open to **Software Engineer, Automation Engineer and AI Engineer** roles. Happy to talk about **backend systems, automation, LLM agents** or **shipping AI in finance and healthcare**.
 
 <a href="https://vipu-patil.github.io/Vipul-Patil-Portfolio/">Portfolio</a> · <a href="https://linkedin.com/in/vipulpat02">LinkedIn</a> · <a href="mailto:patil.vipu.2001@gmail.com">patil.vipu.2001@gmail.com</a>
-
 
 </div>
