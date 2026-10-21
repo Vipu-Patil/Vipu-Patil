@@ -1,31 +1,41 @@
-<div align="center">
+<a href="https://vipu-patil.github.io/Vipul-Patil-Portfolio/"><img src="assets/banner.png" alt="Vipul Patil · Applied AI/ML Engineer" width="100%" /></a>
 
-# Hi, I'm Vipul Patil 👋
+<h1 align="center">Hi 👋, I'm Vipul Patil.</h1>
 
-<a href="https://github.com/Vipu-Patil">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Applied+AI%2FML+Engineer+%40+Centene;I+ship+ML+that+holds+up+on+messy+real-world+data;LLM+agents+%C2%B7+RAG+%C2%B7+Evaluation+%C2%B7+MLOps" alt="Typing intro" />
-</a>
+<h3 align="center">An Applied AI/ML Engineer who ships ML systems that hold up on messy, real-world data</h3>
 
-<p>
-  <a href="https://linkedin.com/in/vipulpat02"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:patil.vipu.2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://vipu-patil.github.io/Vipul-Patil-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" /></a>
-  <img src="https://img.shields.io/badge/Boston,_MA-374151?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Boston, MA" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+Centene;LLM+agents+%C2%B7+RAG+%C2%B7+Evaluation+%C2%B7+MLOps;M.S.+Computer+Science+%40+Northeastern" alt="Typing intro" />
 </p>
 
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Vipu-Patil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://linkedin.com/in/vipulpat02"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://vipu-patil.github.io/Vipul-Patil-Portfolio/"><img src="https://img.shields.io/badge/Visit-Portfolio-f59e0b?style=flat&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:patil.vipu.2001@gmail.com"><img src="https://img.shields.io/badge/Say-Hello-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
----
+<img align="right" src="assets/card.png" alt="Vipul Patil model card" width="340" />
 
-### 🧠 About me
+- 🏥 I'm currently an **AI Engineer at [Centene](https://www.centene.com/)**, working on fraud detection and retrieval for healthcare claims
 
-I'm an **Applied AI/ML Engineer** who takes ML and AI systems from raw financial and healthcare data all the way to production. I pick the right tool for each problem, whether that's classical ML, retrieval and similarity search, LLM applications or agentic systems, and I build evaluations tied to what users actually need.
+- 🔭 I'm currently building **[AI Banking Computer-Use Agent](https://github.com/Vipu-Patil/AI-Banking-Computer-Use-Agent)** and **[IncidentIQ](https://github.com/Vipu-Patil/IncidentIQ)**
 
-- 🏥 **Now:** AI Engineer at **Centene**, working on fraud detection and retrieval for healthcare claims
-- 🎓 **M.S. in Computer Science** from **Northeastern University** (2025)
-- 🔬 **Building:** AI agents that are safe enough to trust in banking and production operations
-- ⚖️ **I care about:** the tradeoffs between quality, cost, latency and reliability
-- 😄 **Known limitation:** I will build an eval suite for anything
+- 🌱 I'm currently going deeper on **LLM agents, RAG and ML evaluation**
+
+- 👯 I'm looking to collaborate on **AI agents that are safe enough to use in finance and healthcare**
+
+- 🎓 **M.S. in Computer Science**, Northeastern University (2025)
+
+- 🌐 Everything I've built is on **[my portfolio website](https://vipu-patil.github.io/Vipul-Patil-Portfolio/)**
+
+- 💬 Ask me about **RAG, fraud detection, evals, FastAPI and MLOps**
+
+- 📫 Reach me at **[patil.vipu.2001@gmail.com](mailto:patil.vipu.2001@gmail.com)**
+
+- ⚡ Fun fact: **I will build an eval suite for anything**
+
+<br clear="right" />
 
 ---
 
