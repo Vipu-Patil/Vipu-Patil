@@ -132,6 +132,5 @@ I'm always happy to talk about **LLM agents, RAG, ML evaluation** or **putting A
 
 <a href="https://vipu-patil.github.io/Vipul-Patil-Portfolio/">Portfolio</a> · <a href="https://linkedin.com/in/vipulpat02">LinkedIn</a> · <a href="mailto:patil.vipu.2001@gmail.com">patil.vipu.2001@gmail.com</a>
 
-<img src="https://komarev.com/ghpvc/?username=Vipu-Patil&color=58A6FF&style=flat-square&label=Profile+views" alt="Profile views" />
 
 </div>
