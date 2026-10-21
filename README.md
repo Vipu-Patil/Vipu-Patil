@@ -9,7 +9,7 @@
 <p>
   <a href="https://linkedin.com/in/vipulpat02"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:patil.vipu.2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Vipu-Patil/Vipul-Patil-Portfolio"><img src="https://vipu-patil.github.io/Vipul-Patil-Portfolio/" alt="Portfolio" /></a>
+  <a href="https://vipu-patil.github.io/Vipul-Patil-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" /></a>
   <img src="https://img.shields.io/badge/Boston,_MA-374151?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Boston, MA" />
 </p>
 
