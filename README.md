@@ -76,7 +76,7 @@ An AI **incident-investigation agent** that reads logs, metrics and deployments 
 <tr>
 <td colspan="2" valign="top">
 
-#### 💼 [Portfolio site](https://github.com/Vipu-Patil/Vipul-Patil-Portfolio)
+#### 💼 [Portfolio site](https://vipu-patil.github.io/Vipul-Patil-Portfolio/) · [source](https://github.com/Vipu-Patil/Vipul-Patil-Portfolio)
 A playful React + Vite portfolio with **"Ask my resume"**, an in-browser TF-IDF retriever that answers visitors' questions from my resume, and an ML-style **model card** about me. `React` `Vite` `JavaScript`
 
 </td>
@@ -120,7 +120,7 @@ A playful React + Vite portfolio with **"Ask my resume"**, an in-browser TF-IDF 
 
 I'm always happy to talk about **LLM agents, RAG, ML evaluation** or **putting AI into production in finance and healthcare**.
 
-<a href="https://linkedin.com/in/vipulpat02">LinkedIn</a> · <a href="mailto:patil.vipu.2001@gmail.com">patil.vipu.2001@gmail.com</a>
+<a href="https://vipu-patil.github.io/Vipul-Patil-Portfolio/">Portfolio</a> · <a href="https://linkedin.com/in/vipulpat02">LinkedIn</a> · <a href="mailto:patil.vipu.2001@gmail.com">patil.vipu.2001@gmail.com</a>
 
 <img src="https://komarev.com/ghpvc/?username=Vipu-Patil&color=58A6FF&style=flat-square&label=Profile+views" alt="Profile views" />
 
